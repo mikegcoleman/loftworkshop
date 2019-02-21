@@ -11,7 +11,7 @@ In this section we'll update the application configuration to point to our highl
 
 * Click on the name of the Lightsail database you created earlier
 
-* Under ***Connection details*** make copy the value for ***Endpoint***.
+* Under ***Connection details*** copy the value for ***Endpoint***.
 
 ![](../../images/endpoint.jpg?classes=border)
 
