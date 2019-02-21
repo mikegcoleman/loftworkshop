@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab #3: Attach a Lightsail database on Scaling and Deploying Applications with Amazon Lightsail</title>
+    <link>http://lightsailworkshop.com/lamp/lab3.html</link>
+    <description>Recent content in Lab #3: Attach a Lightsail database on Scaling and Deploying Applications with Amazon Lightsail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://lightsailworkshop.com/lamp/lab3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3.1 - Reconfigure MySQL</title>
+      <link>http://lightsailworkshop.com/lamp/lab3/reconfigure_mysql.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lightsailworkshop.com/lamp/lab3/reconfigure_mysql.html</guid>
+      <description>In this section we&amp;rsquo;ll update the application configuration to point to our highly-available Lightsail database.
+ From the Lightsail console home page select Databases from the horizontal menu
+ Click on the name of the Lightsail database you created earlier
+ Under Connection details make copy the value for Endpoint.
+   In the ToDo application click settings from the top menu   Paste in the endpoint value of your Lightsail database under DB Hostname.</description>
+    </item>
+    
+  </channel>
+</rss>
