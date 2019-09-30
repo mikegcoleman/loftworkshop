@@ -21,7 +21,7 @@
  Click the 3 dot menu for the PHP-fe-1 instance and choose Manage
  From the horizontal menu choose Snapshots
  Click Create snapshot
-  Under Recent snapshots the status will change to creating, you will need to wait for the process to complete before moving forward.</description>
+  Under ***Recent snapshots*** the status will change to ***creating***, you will need to wait for the process to complete before moving forward.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
  Click Attach
  Click Attach another
  Repeat the previous three steps for PHP-fe-2 and PHP-fe-3
-  It will take several minutes for all three instances to register their health checks as Passed once this has happened, move to the next step</description>
+  It will take several minutes for all three instances to register their health checks as ***Passed*** once this has happened, move to the next step   From the top of the screen copy the long string following DNS name:.</description>
     </item>
     
   </channel>

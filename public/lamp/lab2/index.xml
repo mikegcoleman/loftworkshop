@@ -17,8 +17,7 @@
       
       <guid>http://lightsailworkshop.com/lamp/lab2/deploy_app.html</guid>
       <description>In this section we are going to verify the connection between the PHP application and the locally-running MySQL database.
-To find the public IP of your lightsail intance check the card for your instance on the Lightsail console home page.
-  To see the running application point your web browser to http://&amp;lt;lightsail instance public IP&amp;gt;/. If everything is configured correctly you should see a notification that you have no tasks.</description>
+To find the public IP of your lightsail intance check the card for your instance on the Lightsail console home page.   To see the running application point your web browser to http://&amp;lt;lightsail instance public IP&amp;gt;/. If everything is configured correctly you should see a notification that you have no tasks.</description>
     </item>
     
   </channel>

@@ -18,7 +18,7 @@ Make sure you're deploying your database into the same region as your other reso
 {{% /notice %}}
 
 
-* Change the engine version to ***5.7.23***. 
+* Change the engine version to ***5.7.26***. 
 
     ![](../../images/database_version.jpg?classes=border)
 

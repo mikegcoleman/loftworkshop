@@ -17,9 +17,8 @@
       
       <guid>http://lightsailworkshop.com/lamp/lab1/build_instance.html</guid>
       <description>The first step in deploying the sample application is creating a LAMP stack instance in Lightsail.
-Be sure to create all the resources for this workshop in the same region
-  From the Lightsail console home page click Create Instance
- Make sure that Linux/Unix is selected under Select a platform, and then under Blueprint choose LAMP (PHP5)
+Be sure to create all the resources for this workshop in the same region   From the Lightsail console home page click Create Instance
+ Make sure that Linux/Unix is selected under Select a platform, and then under Blueprint choose LAMP (PHP7)
  Click &amp;lsquo;+Add Launch Script&amp;rsquo; and paste the code below into the window.</description>
     </item>
     
@@ -32,7 +31,7 @@ Be sure to create all the resources for this workshop in the same region
       <description>In this section we&amp;rsquo;ll update the application configuration to point to our highly-available Lightsail database.
  From the Lightsail console home page select Databases from the horizontal menu
  Click on the name of the Lightsail database you created earlier
- Under Connection details make copy the value for Endpoint.
+ Under Connection details copy the value for Endpoint.
    In the ToDo application click settings from the top menu   Paste in the endpoint value of your Lightsail database under DB Hostname.</description>
     </item>
     
@@ -43,8 +42,7 @@ Be sure to create all the resources for this workshop in the same region
       
       <guid>http://lightsailworkshop.com/lamp/lab2/deploy_app.html</guid>
       <description>In this section we are going to verify the connection between the PHP application and the locally-running MySQL database.
-To find the public IP of your lightsail intance check the card for your instance on the Lightsail console home page.
-  To see the running application point your web browser to http://&amp;lt;lightsail instance public IP&amp;gt;/. If everything is configured correctly you should see a notification that you have no tasks.</description>
+To find the public IP of your lightsail intance check the card for your instance on the Lightsail console home page.   To see the running application point your web browser to http://&amp;lt;lightsail instance public IP&amp;gt;/. If everything is configured correctly you should see a notification that you have no tasks.</description>
     </item>
     
     <item>
@@ -69,7 +67,7 @@ To find the public IP of your lightsail intance check the card for your instance
  Click the 3 dot menu for the PHP-fe-1 instance and choose Manage
  From the horizontal menu choose Snapshots
  Click Create snapshot
-  Under Recent snapshots the status will change to creating, you will need to wait for the process to complete before moving forward.</description>
+  Under ***Recent snapshots*** the status will change to ***creating***, you will need to wait for the process to complete before moving forward.</description>
     </item>
     
     <item>
@@ -93,7 +91,7 @@ To find the public IP of your lightsail intance check the card for your instance
  Click Attach
  Click Attach another
  Repeat the previous three steps for PHP-fe-2 and PHP-fe-3
-  It will take several minutes for all three instances to register their health checks as Passed once this has happened, move to the next step</description>
+  It will take several minutes for all three instances to register their health checks as ***Passed*** once this has happened, move to the next step   From the top of the screen copy the long string following DNS name:.</description>
     </item>
     
   </channel>

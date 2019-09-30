@@ -17,9 +17,8 @@
       
       <guid>http://lightsailworkshop.com/lamp/lab1/build_instance.html</guid>
       <description>The first step in deploying the sample application is creating a LAMP stack instance in Lightsail.
-Be sure to create all the resources for this workshop in the same region
-  From the Lightsail console home page click Create Instance
- Make sure that Linux/Unix is selected under Select a platform, and then under Blueprint choose LAMP (PHP5)
+Be sure to create all the resources for this workshop in the same region   From the Lightsail console home page click Create Instance
+ Make sure that Linux/Unix is selected under Select a platform, and then under Blueprint choose LAMP (PHP7)
  Click &amp;lsquo;+Add Launch Script&amp;rsquo; and paste the code below into the window.</description>
     </item>
     

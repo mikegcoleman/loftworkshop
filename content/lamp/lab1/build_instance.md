@@ -13,7 +13,7 @@ Be sure to create all the resources for this workshop in the same region
 
     ![](../../images/1-1-1.jpg?classes=border)
 
-* Make sure that ***Linux/Unix*** is selected under ***Select a platform***, and then under ***Blueprint*** choose ***LAMP (PHP5)***
+* Make sure that ***Linux/Unix*** is selected under ***Select a platform***, and then under ***Blueprint*** choose ***LAMP (PHP7)***
     
     ![](../../images/lamp-blueprint.jpg?classes=border)
 

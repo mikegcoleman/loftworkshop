@@ -19,7 +19,7 @@
       <description>In this section we&amp;rsquo;ll update the application configuration to point to our highly-available Lightsail database.
  From the Lightsail console home page select Databases from the horizontal menu
  Click on the name of the Lightsail database you created earlier
- Under Connection details make copy the value for Endpoint.
+ Under Connection details copy the value for Endpoint.
    In the ToDo application click settings from the top menu   Paste in the endpoint value of your Lightsail database under DB Hostname.</description>
     </item>
     

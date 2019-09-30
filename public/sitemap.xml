@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>http://lightsailworkshop.com/prerequisites.html</loc>
-  </url>
-  
-  <url>
     <loc>http://lightsailworkshop.com/lamp/lab2.html</loc>
   </url>
   
@@ -72,12 +68,10 @@
   
   <url>
     <loc>http://lightsailworkshop.com/categories.html</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lightsailworkshop.com/tags.html</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
